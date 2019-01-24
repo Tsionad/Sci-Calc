@@ -117,7 +117,7 @@ export default class App extends Component {
       <div className="calc-container">
         <span className="description" >Casio</span>
         <span className="model" >v-2.0</span>
-
+        
         <Screen
           log={this.state.log}
           result={this.state.result}
