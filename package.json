@@ -1,8 +1,10 @@
 {
-  "name": "react-calc",
+  "name": "sci-calc",
   "version": "0.1.0",
+  "author": "Tsion Adefres",
   "private": true,
   "dependencies": {
+    "mathjs-expression-parser": "^1.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
